@@ -1,7 +1,7 @@
 # HyperDBX.js
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ghostnetstudio/hyperdb/main/logo.png" alt="HyperDBX.js Logo" width="250" />
+  <img src="https://raw.githubusercontent.com/ghostnetx/hyperdbx.js/main/logo.png" alt="HyperDBX.js Logo" width="250" />
   <p>A powerful yet simple JavaScript database library for Node.js</p>
   <p>
     <img src="https://img.shields.io/npm/v/hyperdbx.js" alt="NPM Version" />
