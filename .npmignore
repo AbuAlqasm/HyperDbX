@@ -1,0 +1,39 @@
+# الملفات والمجلدات التي لا يجب تضمينها في الحزمة المنشورة
+
+# مجلدات المشروع
+.git/
+node_modules/
+
+# ملفات التطوير
+.gitignore
+.npmrc
+.eslintrc
+.prettierrc
+.editorconfig
+
+# ملفات البيئة
+.env
+.env.local
+.env.*.local
+
+# مجلدات بيانات الاختبار
+**/test-data/
+**/secure-data/
+**/filestore-example-data/
+**/sync-data/
+
+# ملفات التوثيق الإضافية
+docs/
+CONTRIBUTING.md
+
+# ملفات السجلات والتصحيح
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# نماذج بيانات الاختبار
+__mocks__/
+__tests__/
+coverage/ 
