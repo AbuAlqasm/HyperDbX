@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ghostnetx/hyperdbx.js/main/logo.png" alt="HyperDBX.js Logo" width="250" />
   <p>A powerful yet simple JavaScript database library for Node.js</p>
   <p>
-    <img src="https://img.shields.io/npm/v/hyperdbx.js" alt="NPM Version" />
+    <img src="https://img.shields.io/npm/v/hyperdbxjs" alt="NPM Version" />
     <img src="https://img.shields.io/npm/l/hyperdbx.js" alt="License" />
     <img src="https://img.shields.io/github/stars/ghostnetstudio/hyperdb" alt="GitHub Stars" />
     <img src="https://img.shields.io/npm/dt/hyperdbx.js" alt="NPM Downloads" />
